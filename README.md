@@ -1,1 +1,3 @@
 # Music_Store_Analysis_-SQL-
+The project's objective was to analyse the database of the music store. Using SQL, I analysed the dataset and provided the store with insights into its business growth by responding to both straightforward and intricate queries about geographic expansion, purchasing power, overall revenue, music band popularity, genre performance, best city for revenue, and best customer in terms of purchase rate. This allowed me to give the store valuable insights into the growth of its business. This analysis will provide the stakeholders with a wealth of knowledge about how to make informed decisions.
+Tools: PostgreSQL (pgAdmin 4)
